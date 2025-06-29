@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+
+# Visual Studio Code project settings
+.vscode/
+
+# Jupiter notebook local configurations and checkpoints
+.jupyter/
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# OSX system files
+.DS_Store
